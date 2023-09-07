@@ -1,0 +1,64 @@
+/* Start Global Property */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box ;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+font-family: 'Almarai', sans-serif;
+font-family: 'Cairo', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+}
+
+
+body{
+    height: 5000px;
+}
+
+/* End Global Property */
+
+
+
+
+/* Start  Cart*/
+
+.card{
+    width: 300px;
+    text-align: center;
+
+}
+
+.card .image img{
+    width: 150px;
+}
+
+
+
+.card .info h2{
+font-size: 30px;
+}
+
+.card .info p{
+    font-weight: bold;
+    font-size: 50px;
+}
+.group
+{
+    display: flex;
+}
+
+/* End Cart */
+
+
